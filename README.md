@@ -1,11 +1,18 @@
 ## Oiii eu sou Júlio Guerra, desenvolvedor Fullstack e professor! 👋
 
 
- <div>
+/* <div>
    <a href="https://github.com/julioguerradev">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioguerradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioguerradev&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
+</div> */
+
+<div align="center">
+  <a href="https://github.com/cvrocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioguerradev&show_icons=true&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioguerradev&layout=compact&theme=aura_dark"/>
+    </a>
 </div>
 
 
